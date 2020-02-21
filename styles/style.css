@@ -20,6 +20,27 @@ nav > div {
 
 }
 
+.wrapper {
+
+    display: flex;
+    justify-content: center;
+    height: 25vh;
+    margin-top: 47px;
+}
+
+.container {
+    width: 50vw;
+    height: 40vh;
+    border: 1px solid gray;
+}
+
+.container-logo {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
 #bt-sesion {
     border: 1px solid #4285f4;
     font-weight: bold;
